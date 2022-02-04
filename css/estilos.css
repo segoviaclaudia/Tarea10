@@ -1,0 +1,138 @@
+body
+{
+	background: grey;
+	font-family: arial;
+}
+
+.container
+{
+ background: white;
+	border-radius: 20px;
+	width: 960px;
+	margin: auto;
+}
+
+.header
+{
+
+}
+
+.header img
+{ 
+	height: 75px;
+}
+
+.menu
+{
+	float: right;
+}
+
+.menu li
+{
+	display: inline-block;
+	margin-left: 10px; 
+}
+
+.menu a
+{
+	text-decoration: none;
+	color: #0309ff;
+	padding: 5px;
+}
+
+.menu a:hover{
+	border: 2px solid blue;
+}
+
+.top
+{
+}
+
+
+.top a:hover
+{	
+	background:grey;
+		border-radius: 20px;
+
+}
+
+.slider img
+{ 
+width: 960px;
+}
+
+
+.row
+{
+	
+	text-align: center;
+	background: #CCC;
+	padding:5px;
+}
+
+
+
+.col
+{
+	display:inline-block;
+	width: 260px;
+	padding: 20px;
+}
+
+.col h2
+{
+	text-shadow: 0px 0px 10px #13da0a;
+}
+
+.col p
+{
+	text-align: justify;
+}
+
+.row2
+{
+	
+	text-align: center;
+	padding:5px;
+}
+
+
+.article p
+{
+	color:white;
+	font-size: 14px;
+		
+}
+
+.article
+{
+    width: 450px;
+	text-align: justify;
+    font-weight: bold;
+	display: inline-block;
+	padding: 20px;
+	background: #A0A0A0;
+}
+
+#lateral
+{
+	width: 150px;
+	height:150px;
+	border-radius: 150px;
+}
+
+
+.footer
+{
+overflow:hidden;	
+}
+
+.footer a
+{
+	
+}
+
+.footer span
+{
+	
+}
